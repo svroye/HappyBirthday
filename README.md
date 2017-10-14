@@ -1,3 +1,5 @@
 # HappyBirthday
-Project for making a first Android application.
-Consists of combining TextViews and ImageViews and using several attributes and values for these attributes to get to know them
+Build during Udacity's Android Basics Nanodegree.
+
+This project is about exploring different Views in Android, as well as relative positioning of them.
+
